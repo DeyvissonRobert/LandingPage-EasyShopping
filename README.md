@@ -10,6 +10,6 @@
   </div>
 
 <div align="center" display="inline-block">
-<img width="800em" alt="imagem do projeto no desktop" src="https://github.com/DeyvissonRobert/Projeto-1-Easy-Shopping/blob/main/assets/Desktop%20Easy%20Shop.jpg">
-<img height="395em" alt="imagem do projeto no mobile" src="https://github.com/DeyvissonRobert/Projeto-1-Easy-Shopping/blob/main/assets/mobile%20Easy%20Shop.jpg">
+<img  alt="imagem do projeto no desktop" src="https://github.com/DeyvissonRobert/Projeto-1-Easy-Shopping/blob/main/assets/Desktop%20Easy%20Shop.jpg">
+<img alt="imagem do projeto no mobile" src="https://github.com/DeyvissonRobert/Projeto-1-Easy-Shopping/blob/main/assets/mobile%20Easy%20Shop.jpg">
 </div>
