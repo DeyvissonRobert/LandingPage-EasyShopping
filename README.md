@@ -7,6 +7,9 @@
 
 ### ✧ Utilizando as linguagens ✧
 ✧ HTML e CSS ✧
+### <p>👾Veja <a href="https://deyvissonrobert.github.io/Projeto-1-Easy-Shopping/">Aqui</a>👾</p>
+  </div>
+  
   </div>
 
 <div align="center" display="inline-block">
