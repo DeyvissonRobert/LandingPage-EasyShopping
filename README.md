@@ -7,7 +7,7 @@
 
 ### ✧ Utilizando as linguagens ✧
 ✧ HTML e CSS ✧
-### <p>👾Veja <a href="https://deyvissonrobert.github.io/Projeto-1-Easy-Shopping/">Aqui</a>👾</p>
+### <p>👾Veja <a href="https://drs-easyshopping.netlify.app/">Aqui</a>👾</p>
 
 <div align="center" display="inline-block">
 <img  alt="imagem do projeto no desktop" src="https://github.com/DeyvissonRobert/LandingPage-EasyShopping/blob/main/assets/Easy%20Shopping.png">
