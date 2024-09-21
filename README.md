@@ -3,7 +3,7 @@
 # ✧ Landing Page | Easy Shopping ✧
 <br> <br>
 
-## ✧ Este é um projeto proposto durante as aulas de CSS no <a href="https://rodolfomori.com.br/devclub/" target="_blank">DevClub</a>.🚀 ✧
+## ✧ Este foi um projeto proposto durante as aulas de CSS no <a href="https://rodolfomori.com.br/devclub/" target="_blank">DevClub</a>.🚀 ✧
 
 ### ✧ Utilizando as linguagens ✧
 ✧ HTML e CSS ✧
