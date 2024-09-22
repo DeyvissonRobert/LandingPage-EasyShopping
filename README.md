@@ -5,9 +5,10 @@
 
 ## ✧ Este foi um projeto proposto durante as aulas de CSS no <a href="https://rodolfomori.com.br/devclub/" target="_blank">DevClub</a>.🚀 ✧
 
-### ✧ Utilizando as linguagens ✧
+### ✧ Linguagens Utilizadas ✧
 ✧ HTML e CSS ✧
-### <p>👾Veja <a href="https://drs-easyshopping.netlify.app/">Aqui</a>👾</p>
+
+### <p>👾Veja <a href="https://drs-easyshopping.netlify.app/">AQUI</a> e se quiser tambem no meu <a href="https://www.linkedin.com/feed/update/urn:li:activity:7243414610396008449/">LINKEDIN</a>👾</p>
 
 <div align="center" display="inline-block">
 <img  alt="imagem do projeto no desktop" src="https://github.com/DeyvissonRobert/LandingPage-EasyShopping/blob/main/assets/Easy%20Shopping.png">
